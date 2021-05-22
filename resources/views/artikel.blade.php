@@ -19,7 +19,12 @@
 <h2>Apa itu Framework?</h2>
 <p>Framework adalah kerangka kerja yang berfungsi untuk mengembangkan aplikasi berbasis web dan desktop.
 Framework membnatu developer dalam menuliskan kode program agar lebih terstruktur dan rapi.</p>
-
+<h2>Fungsi Frameworks</h2>
+<p> - Agar Kode program lebih terstruktur<br>
+    - Untuk membantu kinerja developer<br>
+    - Meningkatkan Keamanan Perangkat Lunak<br>
+    - Pemeliharaan dan dokumentasi website yang mudah<br>   
+    - Mempercepat dalam proses pembuatan web</p>
 </body>
 <style> /*css */
 /* Add a black background color to the top navigation */
